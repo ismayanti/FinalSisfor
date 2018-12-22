@@ -88,9 +88,9 @@
     <script src="<?php echo base_url() ?>/assets/js/admin.js"></script>
     <script src="<?php echo base_url() ?>/assets/js/pages/examples/sign-in.js"></script>
     <script type="text/javascript">
-    	$('#button_sign_in').on('click' , function(e) {
-    		e.preventdefault();
-    	})
+        $('#button_sign_in').on('click' , function(e) {
+            e.preventdefault();
+        })
     </script>
 </body>
 
